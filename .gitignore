@@ -1,0 +1,6 @@
+.cache
+
+*.secret
+*.key
+*.pem
+*.cert
