@@ -1,0 +1,6 @@
+---
+- name: Create minimal demo environment
+  hosts: localhost
+  roles:
+    - name: darthlukan.minishift_setup
+...
